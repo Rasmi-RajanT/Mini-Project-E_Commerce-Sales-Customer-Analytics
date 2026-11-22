@@ -1,1 +1,2 @@
-# Mini-Project-E_Commerce-Sales-Customer-Analytics
+# Mini-Project-E Commerce-Sales-Customer-Analytics
+Data Cleaning and transformation using Excel
